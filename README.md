@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-praveenkumar?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://praveenkumar.github.io/" target="_blank"><img src="https://img.shields.io/website?label=praveenkumar.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fspraveenrock.github.io" alt="praveenkumar.github.io" /></a>
 <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/praveenkumar?logo=twitter&style=for-the-badge" alt="spraveenrock" /></a>&nbsp
-<a href="https://www.linkedin.com/in/><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/><img src="https://img.shields.io/badge/-praveenkumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="http:/praveenkumar.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=praveenkumar.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fspraveenrock.github.io" alt="spraveenrock.github.io" /></a>&nbsp
    <a href="mailto:praveensrinivasan1995@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:praveensrinivasan1995@gmail.com" />
@@ -38,7 +38,7 @@
 
 <h3>📫 How to reach me **praveensrinivasan1995@gmail.com</h3>
 
-<h3>📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)</h3>
+<h3>📄 Know about my experiences [[https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)]</h3>
 
 <h3>⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"</h3>
 
@@ -159,5 +159,4 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=dark" alt="harikanani" /></p> -->
 <br/>  
 
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=spraveenrock&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+
