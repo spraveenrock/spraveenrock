@@ -53,18 +53,6 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 <h3 align="left"> 🤝 Connect with me:</h3>
-## 🌐 Languages and Tools :
-<p align="left">
-<a href="https://dev.to/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harikanani" height="30" width="40" /></a>
-<a href="https://twitter.com/harikrushn9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harikrushn9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harikrushn-kanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harikrushn-kanani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12286889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12286889" height="30" width="40" /></a>
-<a href="https://instagram.com/kanani_025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kanani_025" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harikanani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harikanani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hkanani191" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@hkanani191" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hkanani191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hkanani191" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">🌐 Languages and Tools:</h3>
 <p align="left">
