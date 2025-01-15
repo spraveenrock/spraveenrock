@@ -3,15 +3,6 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
-<p>
-    <a href="https://github.com/harikanani/"><img src="https://img.shields.io/github/followers/harikanani?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/harikanani?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="mailto:harikanani2003@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Harikrushn :wave:,%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
-    <img src="https://camo.githubusercontent.com/c1a01ddb58e7b6923314da9ad1142f993a25ffc8d31183bc1ffe66ea386697af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6375732d46756c6c537461636b2d627269676874677265656e" />
-  </p>
-
-
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/praveenkumar?logo=twitter&style=for-the-badge" alt="spraveenrock" /></a>
