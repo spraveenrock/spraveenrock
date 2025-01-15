@@ -2,17 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
-- 🔭 I’m currently working on **Speech Processing Lock System**
 
-- 🌱 I’m currently learning **Advanced React, Speech Processing, AWS, Reinforcement Learning.**
-
-- 💬 Ask me about **React, Vue, GSAP, and more!**
-
-- 📫 How to reach me **praveensrinivasan1995@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)
-
-- ⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"**
 <p>
     <a href="https://github.com/harikanani/"><img src="https://img.shields.io/github/followers/harikanani?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/harikanani?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
@@ -40,12 +30,23 @@
 
 <h3> 🧑 About me </h3>
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3>🔭 I’m currently working on **Speech Processing Lock System**
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
+<h3>🌱 I’m currently learning **Advanced React, Speech Processing, AWS, Reinforcement Learning.*</h3>
+
+<h3>💬 Ask me about **React, Vue, GSAP, and more!</h3>
+
+<h3>📫 How to reach me **praveensrinivasan1995@gmail.com</h3>
+
+<h3>📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)</h3>
+
+<h3>⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"</h3>
+
+<h3>🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)</h3>
 
 @@ -37,46 +31,8 @@
 
-- ⚡ Fun fact **I love to code**
+<h3>⚡ Fun fact **I love to code**</h3>
 
 <h3> 🏆 Badges </h3>
 
