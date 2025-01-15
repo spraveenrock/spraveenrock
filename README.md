@@ -38,7 +38,7 @@
 
 <h3>📫 How to reach me **praveensrinivasan1995@gmail.com</h3>
 
-<h3>📄 Know about my experiences [[https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)]</h3>
+<h3>📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf]</h3>
 
 <h3>⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"</h3>
 
