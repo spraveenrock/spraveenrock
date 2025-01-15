@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Praveen Kumar</h1>
 <h3 align="center">Passionate About Turning Data Into Actionable Insights.</h3>
 
-- 🔭 I’m currently working on **Speech Processing Lock System**
 
-- 🌱 I’m currently learning **Advanced React, Speech Processing, AWS, Reinforcement Learning.**
-
-- 💬 Ask me about **React, Vue, GSAP, and more!**
-
-- 📫 How to reach me **praveensrinivasan1995@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)
-
-- ⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,7 +16,17 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
+- 🔭 I’m currently working on **Speech Processing Lock System**
 
+- 🌱 I’m currently learning **Advanced React, Speech Processing, AWS, Reinforcement Learning.**
+
+- 💬 Ask me about **React, Vue, GSAP, and more!**
+
+- 📫 How to reach me **praveensrinivasan1995@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf](https://github.com/spraveenrock/spraveenrock/blob/main/Praveen%20Kumar%20Resume.pdf)
+
+- ⚡ Fun fact **"One time I almost became a beggar because I forgot to turn off my AWS EC2 instances!"**
 <p>
     <a href="https://github.com/harikanani/"><img src="https://img.shields.io/github/followers/harikanani?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/harikanani?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
