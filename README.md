@@ -20,7 +20,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 About me </h3>
-<h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3> 🧑 I'm a Programmer, Developer!!</h3>
 <h3>🌱 I’m currently learning Advanced React, Speech Processing, AWS, Reinforcement Learning.*</h3>
 
 <h3>💬 Ask me about React, Vue, GSAP, and more!</h3>
